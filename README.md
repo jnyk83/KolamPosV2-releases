@@ -1,17 +1,17 @@
 # KolamPOS v2 — Android Downloads
 
-## Latest version: v2.9.16
+## Latest version: v2.9.17
 
-[**Download KolamPOS-v2.9.16.apk**](https://github.com/jnyk83/KolamPosV2-releases/releases/download/v2.9.16/KolamPOS-v2.9.16.apk)
+[**Download KolamPOS-v2.9.17.apk**](https://github.com/jnyk83/KolamPosV2-releases/releases/download/v2.9.17/KolamPOS-v2.9.17.apk)
 
-[Release notes](https://github.com/jnyk83/KolamPosV2-releases/releases/tag/v2.9.16) · [All releases](https://github.com/jnyk83/KolamPosV2-releases/releases) · [Admin Portal](https://cloud.kolampos.com.my)
+[Release notes](https://github.com/jnyk83/KolamPosV2-releases/releases/tag/v2.9.17) · [All releases](https://github.com/jnyk83/KolamPosV2-releases/releases) · [Admin Portal](https://cloud.kolampos.com.my)
 
-This update adds counter split payments and configurable slot reminders, and improves refunds, aquatic stock calculations, offline catch sync and checkout usability.
+This maintenance update fixes the counter split-payment window resizing after the Android keyboard closes and keeps checkout controls accessible. It includes the features and improvements from v2.9.16.
 
 ### Install or update
 
 Download the APK on your tablet, open it, and install over your existing KolamPOS app. **Do not uninstall first**, so your local data is retained. Keep the tablet online after installation to complete a sync.
 
-Version: **2.9.16** · Android version code: **49**
+Version: **2.9.17** · Android version code: **50**
 
-SHA-256: `296ec163219957f9c99d70d364a6d34528b2c11d9d66ad79b76b8975b233fe9c`
+SHA-256: `ed591945a21145d9e058fb951760a148402b46d26842c8184f279e5d552b0b61`
